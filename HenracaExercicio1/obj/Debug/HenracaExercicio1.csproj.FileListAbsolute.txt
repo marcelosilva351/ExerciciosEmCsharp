@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\obj\Debug\HenracaExercicio1.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\obj\Debug\HenracaExercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\bin\Debug\HenracaExercicio1.exe.config
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\bin\Debug\HenracaExercicio1.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\bin\Debug\HenracaExercicio1.pdb
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\obj\Debug\HenracaExercicio1.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\HenracaExercicio1\obj\Debug\HenracaExercicio1.pdb

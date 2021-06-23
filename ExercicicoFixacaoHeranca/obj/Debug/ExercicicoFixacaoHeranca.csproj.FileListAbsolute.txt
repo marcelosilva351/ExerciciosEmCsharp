@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\bin\Debug\ExercicicoFixacaoHeranca.exe.config
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\bin\Debug\ExercicicoFixacaoHeranca.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\bin\Debug\ExercicicoFixacaoHeranca.pdb
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\obj\Debug\ExercicicoFixacaoHeranca.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\obj\Debug\ExercicicoFixacaoHeranca.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\obj\Debug\ExercicicoFixacaoHeranca.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicicoFixacaoHeranca\obj\Debug\ExercicicoFixacaoHeranca.pdb

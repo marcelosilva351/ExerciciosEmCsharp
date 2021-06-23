@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\bin\Debug\ExercicioClasseMetodoAbstrato.exe.config
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\bin\Debug\ExercicioClasseMetodoAbstrato.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\bin\Debug\ExercicioClasseMetodoAbstrato.pdb
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\obj\Debug\ExercicioClasseMetodoAbstrato.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\obj\Debug\ExercicioClasseMetodoAbstrato.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\obj\Debug\ExercicioClasseMetodoAbstrato.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioClasseMetodoAbstrato\obj\Debug\ExercicioClasseMetodoAbstrato.pdb

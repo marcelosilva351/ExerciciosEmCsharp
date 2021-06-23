@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\bin\Debug\Herança.exe.config
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\bin\Debug\Herança.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\bin\Debug\Herança.pdb
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\obj\Debug\Herança.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\obj\Debug\Herança.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\obj\Debug\Herança.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\Herança\obj\Debug\Herança.pdb

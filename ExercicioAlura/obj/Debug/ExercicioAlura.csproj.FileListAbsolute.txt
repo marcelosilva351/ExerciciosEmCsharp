@@ -1,0 +1,7 @@
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\bin\Debug\ExercicioAlura.exe.config
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\bin\Debug\ExercicioAlura.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\bin\Debug\ExercicioAlura.pdb
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\obj\Debug\ExercicioAlura.csproj.AssemblyReference.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\obj\Debug\ExercicioAlura.csproj.CoreCompileInputs.cache
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\obj\Debug\ExercicioAlura.exe
+C:\Users\Basis Tecnologia\source\repos\ExercicioAlura\ExercicioAlura\obj\Debug\ExercicioAlura.pdb
